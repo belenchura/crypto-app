@@ -1,0 +1,23 @@
+/* market-overview.component.css */
+
+.table {
+    margin-top: 20px;
+  }
+  
+  .table th {
+    text-align: center;
+  }
+  
+  .table td {
+    vertical-align: middle;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .text-center {
+    color: #007bff; /* Color azul para el título */
+    font-weight: bold;
+  }
+  
